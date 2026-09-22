@@ -19,7 +19,7 @@
 This repository contains our submission for **Hi!ckathon #5 (AI & Sustainability)**.  
 We achieved the **3rd best score** with a deliberately **simple and robust pipeline**.
 
-Instead of heavy feature engineering, we focused on:
+we focused on:
 - clean feature pruning,
 - strong gradient boosting models,
 - lightweight ensembling.
